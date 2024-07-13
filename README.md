@@ -1,10 +1,6 @@
 # ETH-AVAX-Module-3
 # UtkarshToken
 
-## Overview
-
-The `UtkarshToken` contract is an ERC20-compliant token written in Solidity. It serves as a basic example of creating a custom ERC20 token on the Ethereum blockchain using OpenZeppelin's ERC20 implementation. The contract includes functionalities for token creation, management by an owner, and token transfer and destruction.
-
 ## Description
 
 The `UtkarshToken` contract extends the ERC20 standard and includes:
@@ -48,10 +44,6 @@ To interact with this contract, follow these steps using Remix, an online Solidi
      - Use the `mintTokens` function to mint tokens to a recipient address.
      - Use the `burnTokens` function to burn tokens owned by the caller.
      - Use the `transferTokens` function to transfer tokens between addresses.
-
-## Help
-
-For common problems or issues, refer to Remix IDE documentation or Solidity documentation.
 
 ## Author
 
